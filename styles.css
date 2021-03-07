@@ -43,7 +43,31 @@ body{
 
 
 hr {
-    color:rgb(92, 90, 90);
-    width:90%;
-    margin:0 auto;
+    color: rgb(92, 90, 90);
+    width: 90%;
+    margin: 0 auto;
+}
+
+p {
+    font-size: large;
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+
+
+ /* small screens s*/
+@media(max-width:600px) {
+
+.navbar.bg-light {
+background-color: rgb(92, 156, 156)!important;    
+}
+
+.navbar {
+padding:inherit;
+}
+
+body {
+    background-color: white;
+}
+
 }
