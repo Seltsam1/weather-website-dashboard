@@ -21,6 +21,7 @@ All visualizations for this project were created in a different repository (http
 - visualizations (temp.html, humidity.html, cloudiness.html, windspeed.html)
   - Focus on each specific visualization
   - Paragraph explaining the scatter plot
+  - Visualization portion on the right will show a border around currently selected chart
 
 ## Licensing by:
 
