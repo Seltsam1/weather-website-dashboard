@@ -23,6 +23,11 @@ All visualizations for this project were created in a different repository (http
   - Paragraph explaining the scatter plot
   - Visualization portion on the right will show a border around currently selected chart
 
+- comparison.html
+  - All visualizations on the same page for easy comparison
+  - Utilizes the Bootstrap grid
+  - Clicking on an image will take user to corresponding visualization page
+
 ## Licensing by:
 
 The code in this project is licensed under MIT license.
