@@ -6,8 +6,6 @@ The weather dashboard was created using HTML and CSS, utilizing Bootstrap (https
 
 index.html file contains the Landing Page for the Weather Dashboard website
 
-styles.css contains additional formatting for all pages, including media queries for different size screens (600px and below)
-
 All visualizations for this project were created in a different repository (https://github.com/Seltsam1/python-api-weather)
 
 
@@ -27,6 +25,15 @@ All visualizations for this project were created in a different repository (http
   - All visualizations on the same page for easy comparison
   - Utilizes the Bootstrap grid
   - Clicking on an image will take user to corresponding visualization page
+
+
+- styles.css
+  - Includes additional formatting of html
+  - Media queries for different size screens (600px and below)
+
+- csv-to-html.ipynb
+  - Jupyter Notebook file with python code to convert csv into DataFrame, then into html
+  - Preliminary step for the data.html page
 
 ## Licensing by:
 
