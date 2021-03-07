@@ -26,6 +26,10 @@ All visualizations for this project were created in a different repository (http
   - Utilizes the Bootstrap grid
   - Clicking on an image will take user to corresponding visualization page
 
+- data.html
+  - Displays a respsive table containing all the data used for the scatter plots
+  - Utilizes a bootstrap table component
+  - Data was first prepared in the csv-to-html.ipynb file 
 
 - styles.css
   - Includes additional formatting of html
