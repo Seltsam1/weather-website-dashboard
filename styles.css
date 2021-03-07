@@ -1,0 +1,8 @@
+/* Additional css for weather dashboard */
+
+a.navbar-brand{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(92, 156, 156);
+    font-size: 30px;
+}
