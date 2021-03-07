@@ -55,6 +55,15 @@ p {
  }
 
 
+ figure {
+    text-align: center
+}
+
+/* visualization pages - border for selected image */
+.select {
+    border: 3px solid rgb(92, 156, 156);
+}
+
  /* small screens s*/
 @media(max-width:600px) {
 
