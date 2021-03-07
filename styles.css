@@ -4,6 +4,7 @@
     padding: 10px;
     background-color: rgb(92, 156, 156);
     font-size: 30px;
+    padding-right: 10px;
 }
 
 .navbar {
@@ -13,3 +14,36 @@
     padding-right: 40px;
 }
 
+
+h3{
+    color: rgb(92, 156, 156);
+    padding: 15px;
+}
+
+.img-thumbnail{
+    padding: 15px;
+    border: none;
+}
+
+body{
+    background-color: rgb(196, 196, 196);
+}
+
+.col-md-12{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom:40px;
+}
+
+.content {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+
+
+hr {
+    color:rgb(92, 90, 90);
+    width:90%;
+    margin:0 auto;
+}
